@@ -1,0 +1,4 @@
+repeat /depenencies.txt:
+  print Installing {line}...
+  run /bin/installer install {line}@latest
+  print Successfully installed {line}.
