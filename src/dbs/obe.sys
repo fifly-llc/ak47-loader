@@ -1,0 +1,8 @@
+clr
+Starting Up...
+init
+wait 1000
+clr
+ref /obe/start.sys
+clr
+shutdown

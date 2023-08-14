@@ -1,0 +1,14 @@
+{
+    "options": [
+        {
+            "title": "File Explorer",
+            "onclick": {
+                "run": {
+                    "type": "dbslang-sys",
+                    "sys": "runprog file-explorer"
+                }
+            }
+        }
+    ],
+    "title": "ak47 Loader"
+}
